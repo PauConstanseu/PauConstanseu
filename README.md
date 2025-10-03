@@ -11,6 +11,4 @@ Aquesta etapa és un punt de partida que em fa molta il·lusió, i estic emocion
 - Compartir coneixement i créixer dins la comunitat de desenvolupadors.  
 
 ## 📫 Contacte
-Em pots trobar aquí a GitHub, on aniré compartint els meus projectes i aprenentatges.  
-
--->
+Em pots trobar aquí a GitHub, on aniré compartint els meus projectes i aprenentatges. 
