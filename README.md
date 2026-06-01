@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mi
 
-Tinc **17 anys** i actualment estic cursant el **2n de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**. M’apassiona profundament el món de la tecnologia, la infraestructura i el programari. Em considero una persona curiosa, proactiva i amb una gran motivació per afrontar nous reptes tècnics i seguir aprenent cada dia.
+Tinc **18 anys** i actualment estic cursant el **2n de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**. M’apassiona profundament el món de la tecnologia, la infraestructura i el programari. Em considero una persona curiosa, proactiva i amb una gran motivació per afrontar nous reptes tècnics i seguir aprenent cada dia.
 
 Aquesta etapa és només el meu punt de partida. Estic completament enfocat a explorar a fons la integració de sistemes, el desplegament d'aplicacions i la creació de solucions eficients.
 
