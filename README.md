@@ -48,7 +48,7 @@ Aquestes són algunes de las tecnologies amb les que treballo i aprenc diàriame
 ## 🎯 Objectius de Futur
 
 - [ ] Consolidar els meus coneixements en l'administració avançada de sistemes i seguretat en xarxes.
-- [ ] Continuar creant projectes propis de codi obert i col·laborar en iniciatives de la comunitat.
+- [ ] Titular-me en DAM (Desenvolupament d'Aplicacions Multiplataforma).
 - [ ] Automatitzar infraestructures i millorar en el desplegament d'aplicacions segures.
 
 ---
